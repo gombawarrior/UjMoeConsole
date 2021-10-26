@@ -1,4 +1,4 @@
-MoeMod 2.0 struktúrája
+ÚjMoe 2.0 struktúrája
 
 -------------
 1. Menürendszer
@@ -36,5 +36,7 @@ Konzolos írásokra
 
 2.3 IO.cs
 2.3.0.1 Konstruktor - IO inicializálása
-
+2.3.1 FájlbaÍrás
+    $ a váltójel
+    
 2.4 Tár.cs
