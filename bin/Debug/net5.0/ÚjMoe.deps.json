@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ÚjMoe/1.0.0": {
+        "runtime": {
+          "ÚjMoe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ÚjMoe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

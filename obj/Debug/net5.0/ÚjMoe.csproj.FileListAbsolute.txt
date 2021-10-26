@@ -1,0 +1,16 @@
+/home/gyomember/Projects/ÚjMoe/bin/Debug/net5.0/ÚjMoe
+/home/gyomember/Projects/ÚjMoe/bin/Debug/net5.0/ÚjMoe.deps.json
+/home/gyomember/Projects/ÚjMoe/bin/Debug/net5.0/ÚjMoe.runtimeconfig.json
+/home/gyomember/Projects/ÚjMoe/bin/Debug/net5.0/ÚjMoe.runtimeconfig.dev.json
+/home/gyomember/Projects/ÚjMoe/bin/Debug/net5.0/ÚjMoe.dll
+/home/gyomember/Projects/ÚjMoe/bin/Debug/net5.0/ref/ÚjMoe.dll
+/home/gyomember/Projects/ÚjMoe/bin/Debug/net5.0/ÚjMoe.pdb
+/home/gyomember/Projects/ÚjMoe/obj/Debug/net5.0/ÚjMoe.csprojAssemblyReference.cache
+/home/gyomember/Projects/ÚjMoe/obj/Debug/net5.0/ÚjMoe.GeneratedMSBuildEditorConfig.editorconfig
+/home/gyomember/Projects/ÚjMoe/obj/Debug/net5.0/ÚjMoe.AssemblyInfoInputs.cache
+/home/gyomember/Projects/ÚjMoe/obj/Debug/net5.0/ÚjMoe.AssemblyInfo.cs
+/home/gyomember/Projects/ÚjMoe/obj/Debug/net5.0/ÚjMoe.csproj.CoreCompileInputs.cache
+/home/gyomember/Projects/ÚjMoe/obj/Debug/net5.0/ÚjMoe.dll
+/home/gyomember/Projects/ÚjMoe/obj/Debug/net5.0/ref/ÚjMoe.dll
+/home/gyomember/Projects/ÚjMoe/obj/Debug/net5.0/ÚjMoe.pdb
+/home/gyomember/Projects/ÚjMoe/obj/Debug/net5.0/ÚjMoe.genruntimeconfig.cache
